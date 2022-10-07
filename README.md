@@ -1,5 +1,7 @@
 # FinTech Real Estate Analysis Using Data Visualization to locate Investment Properties
 
+![RE_AnalystSF_Title](M6ReadMeTitle-2022-10-07164721.png) 
+
 *'Welcome to my FinTech project as a 'Real Estate Analyst to find Investment Properties in San Francisco'*
 
 ---
