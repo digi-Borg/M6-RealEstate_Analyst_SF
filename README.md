@@ -51,13 +51,14 @@ This application is launched from web-based JupyterLab utilizing Pandas which is
 
 The program is developed in Jupyter notebooks on a **.ipny** file. Imports of PyViz libraries **hvplots and geoviews**; and with  **HoverTool** are used for more advanced interactive chart environments. These apps makes it much easier to explore data in interactive plot properties, without having to write additional code to select ranges, columns, or data values manually. These interactive visualization libraries also improve browser plot presentations. Together they advance functions to create informative visualizations from the Pandas DataFrames and data metrics. 
 
-The **san_francisco_housing.ipynb** program utilizing the above libraries has several steps to retrieve, aggregate, create, evaluate, and analyze data to make forcasts for real estate investing. Through these steps real estate portfolio managers can visualize property opportunities to efficiently aid purchase decisions in meeting investment goals.   
+The ['san_francisco_housing.ipynb'](./san_francisco_housing.ipynb) program utilizing the above libraries has several steps to retrieve, aggregate, create, evaluate, and analyze data to make forcasts for real estate investing. Through these steps real estate portfolio managers can visualize property opportunities to efficiently aid purchase decisions in meeting investment goals.   
 
-```python
+
+```python 
+
 financial_planning_tools.ipynb
 ```
  
-
 ---
 
 ## Contributors
@@ -69,4 +70,8 @@ Dana Hayes: nydane1@gmail.com
 
 ## License
 
-Columbia U. Engineering
+Columbia U. Engineering 
+
+#
+[BSD 2-Clause LicenseCopyright (c) 2022, digi-Borg
+All rights reserved.](/LICENSE)
